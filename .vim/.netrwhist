@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/devdata/wgc/git_repo/megvii3-workspace/tools'
+let g:netrw_dirhist_2='/home/devdata/wgc/work_space/embed_megsdk/demo/fsl1_demo/tools'
+let g:netrw_dirhist_3='/home/devdata/wgc/work_space/hako/example'
+let g:netrw_dirhist_4='/media/wugengchen/work/work_space/code_space/ipu_megsdk/megsdk/interface'
+let g:netrw_dirhist_5='/media/wugengchen/work/work_space/code_space/ipu_megsdk/megsdk/modules'
+let g:netrw_dirhist_6='/media/wugengchen/work/work_space/code_space/ipu_megsdk/megsdk/scripts'
